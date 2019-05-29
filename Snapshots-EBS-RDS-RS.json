@@ -1,0 +1,12 @@
+{
+  "detail-type": [
+    "AWS API Call via CloudTrail"
+  ],
+  "detail": {
+    "eventName": [
+      "ModifySnapshotAttribute",
+      "ModifyDBSnapshotAttribute",
+      "AuthorizeSnapshotAccess"
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "detail-type": [
+    "AWS Console Sign In via CloudTrail"
+  ],
+  "detail": {
+    "eventName": [
+      "ConsoleLogin",
+      "CheckMfa"
+    ],
+    "errorMessage": [
+      "Failed authentication",
+      "No username found in supplied account"
+    ]
+  }
+}

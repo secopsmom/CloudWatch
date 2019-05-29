@@ -1,0 +1,16 @@
+{
+  "detail": {
+    "eventName": [
+      "ConsoleLogin"
+    ],
+    "eventType": [
+      "AwsConsoleSignIn",
+      "AwsApiCall"
+    ],
+    "userIdentity": {
+      "type": [
+        "Root"
+      ]
+    }
+  }
+}

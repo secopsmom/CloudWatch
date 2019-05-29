@@ -1,0 +1,17 @@
+{
+  "detail-type": [
+    "AWS API Call via CloudTrail"
+  ],
+  "detail": {
+    "eventName": [
+      "DescribeClusters"
+    ],
+    "responseElements": {
+      "clusters": {
+        "publiclyAccessible": [
+          true
+        ]
+      }
+    }
+  }
+}
