@@ -1,1 +1,2 @@
-CloudWatch Event Rules
+# CloudWatch
+Event Rules in JSON
